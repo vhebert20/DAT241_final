@@ -78,7 +78,7 @@ It should also be noted that the elevation data does not take into account exist
 
 ##### MAP 2: final output of the acreage that meets all the criteria noted above
 
-![solar_final](https://user-images.githubusercontent.com/71047291/117082923-71c95000-ad11-11eb-9515-c58ebac68786.jpg)
+![solar_final_results](https://user-images.githubusercontent.com/71047291/117085661-6168a380-ad18-11eb-9060-4461b0b7c837.jpg)
 
 
 ##### TABLE 1: table of acreage per municipal area
