@@ -55,7 +55,7 @@ Raster Calculator - multiply the three reclassified rasters together to create a
 
 Raster to Polygon - convert ideal_raster to a polygon for clipping (ideal_polygon)
 
-Explode the ideal_polygon - break it into multiple polygons
+Explode - break ideal_polygon into multiple polygons
 
 Summarize Within - tally the number of acres within each of the Municipal boundaries
 
